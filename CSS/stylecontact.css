@@ -1,0 +1,16 @@
+a {
+  color: white;
+  font-size: 20px;
+  text-transform: uppercase;
+
+  font-family: sans-serif;
+}
+
+body {
+background-color: #83a6d0;
+font-family: 'Pacifico', cursive;
+font-size: 40px ;
+
+color: white;
+font-weight: lighter;
+}
